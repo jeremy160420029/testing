@@ -1,0 +1,5 @@
+{"foods":[
+ {"id":"1", "resto_name":"Gudeg Pecel UBAYA", "resto_review":"183", "resto_rating":"4.8", "photo_url":"https://ksmtour.com/media/images/articles17/gudeg-lumintu-khas-jember.jpg", "opening_hours":"08.00 - 18.00", "distance":"1"},
+  {"id":"2", "resto_name":"Nasi Goreng Bakmi UBAYA", "resto_review":"2", "resto_rating":"4.5", "photo_url":"https://www.bakmigm.com/cfind/source/thumb/images/menu/cover_w480_h480_77-nasi-goreng-smoked-chicken-reg.png", "opening_hours":"09.00 - 18.30", "distance":"1.5"},
+  {"id":"3", "resto_name":"Nasi Goreng Cumi UBAYA", "resto_review":"518", "resto_rating":"4.3", "photo_url":"https://cdn-2.tstatic.net/kaltim/foto/bank/images/resep-nasi-goreng-cumi-dan-ebi.jpg", "opening_hours":"18.00 - 04.00", "distance":"2"}
+]}
