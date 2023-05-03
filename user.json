@@ -1,0 +1,3 @@
+[{"id":"1", "name":"Jeremy", "email":"jeremy@gmail.com", "bod":"10 November 2001", "photo_url":"https://www.dmarge.com/wp-content/uploads/2021/01/dwayne-the-rock-.jpg", "phone":"081920395482", "username":"jerjer", "password":"jerjer"},
+  {"id":"2", "name":"Maria", "email":"maria@gmail.com", "bod":"1 January 2002", "photo_url":"https://engineering.unl.edu/images/staff/Kayla-Person.jpg", "phone":"0823909273512", "username":"marmar", "password":"marmar"},
+  {"id":"3", "name":"Ferdi", "email":"fer@gmail.com", "bod":"20 July 2002", "photo_url":"https://img.freepik.com/free-icon/important-person_318-10744.jpg", "phone":"085501293182", "username":"ferfer", "password":"ferfer"}]
